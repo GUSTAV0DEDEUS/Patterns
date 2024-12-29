@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/comPadrao/Remetente.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/comPadrao/RemetenteMarketing.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/semPadrao/SMSNotificationSem.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/comPadrao/RemetenteAdministrativo.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/semPadrao/EmailNotificationSem.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/bridgemain/BridgeMain.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/semPadrao/RemetenteAdministrativoSem.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/comPadrao/EmailNotification.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/comPadrao/Notificacao.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/semPadrao/RemetenteMarketingSem.java</file>
+            <file>file:/home/gustavo/padroes%202/BridgeMain/src/comPadrao/SMSNotification.java</file>
+        </group>
+    </open-files>
+</project-private>
